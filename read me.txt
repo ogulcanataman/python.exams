@@ -1,1 +1,1 @@
-oldu sanırım
+Bu repoda python öğrenirken yaptığım uygulamalar vardır.
